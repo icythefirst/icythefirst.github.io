@@ -1,0 +1,20 @@
+span.t1{
+      padding-top:20px;
+      padding-bottom:10px;
+      font-weight:bold;
+      font-size:30px;
+      display: table;
+      margin: 0 auto;
+      font-family:"Garamond", serif;
+      background: linear-gradient(to left,
+                    #C7B390,
+                    #5DA8FE);
+      -webkit-background-clip: text;
+      color: transparent;
+    }
+    div.t1{
+      padding-bottom:10px;
+      font-weight:bold;
+      font-size:25px;
+      text-align:center;
+      font-family:"Garamond", serif;
