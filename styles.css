@@ -22,19 +22,18 @@ div.t1{
 }
 /* */
 hr.line {
-    padding: 0;
-    border: 1px solid;
-    color: #333;
-    text-align: center;
+      padding: 0;
+      background-color: #5e94d6;
+      text-align: center;
 }
 /* */
 .box {
-    background-color:teal;
-    width:100px;
-    height:30px;
-    position:absolute;
-    left: 40%;
-    bottom:90%;
-    padding-top:20px;
+      background-color: #5e94d6;
+      width:100px;
+      height:45px;
+      margin:auto;
+      left: 40%;
+      bottom:90%;
+      padding-top:20px;
 
 }
