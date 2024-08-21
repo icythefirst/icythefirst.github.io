@@ -21,19 +21,7 @@ div.t1{
       font-family:"Garamond", serif;
 }
 /* */
-hr.line {
-      padding: 0;
-      background-color:#5e94d6;
-      text-align: center;
-}
-/* */
-.box {
-      background-color:#5e94d6;
-      width:100px;
+hr.top{
       height:45px;
-      margin:auto;
-      left: 40%;
-      bottom:90%;
-      padding-top:20px;
-      text-align:center;
+      background-color: linear-gradient(to right, #51c8cd , #3575d0)
 }
